@@ -1,6 +1,6 @@
 # CodeQuery
 
-<img src="demo.PNG">
+<img src="demo.png">
 
 CodeQuery CODE WANTS TO BE SIMPLE is the place to find help with your coding and programming queries.
 
